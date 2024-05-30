@@ -1,0 +1,5 @@
+25.05.2024, work_hours=6
+26.05.2024, work_hours=10
+27.05.2024, work_hours=6
+28.05.2024, work_hours=6
+
